@@ -14,3 +14,6 @@ Open `index.html` in the browser.
 - HTML
 - CSS
 - JavaScript (DOM, Local Storage)
+
+  ## Live demo link
+  - https://dt01todolist.netlify.app/
